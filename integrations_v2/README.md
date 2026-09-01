@@ -25,6 +25,8 @@ follows is already done for you.
 - `t2v_self_forcing`, `t2v_causal_forcing`, `t2v_fastvideo_causal_wan22`,
   `t2v_wan21`, `t2v_cosmos_predict2` — real models, each a thin wrapper over
   `flashdreams.t2v_v2`.
+- `flashvsr` — streaming video super-resolution bound to the shared
+  `apps/upsample_video` Big Buck Bunny application.
 - `null_model` — not an application. A v1 pipeline the framework tests use as a
   fixture.
 

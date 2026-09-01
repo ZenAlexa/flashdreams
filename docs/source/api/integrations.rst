@@ -56,7 +56,7 @@ Reference integration folders
 - `lingbot <https://github.com/NVIDIA/flashdreams/tree/main/integrations/lingbot>`_
 - `wan21 <https://github.com/NVIDIA/flashdreams/tree/main/integrations/wan21>`_
 - `fastvideo_causal_wan22 <https://github.com/NVIDIA/flashdreams/tree/main/integrations/fastvideo_causal_wan22>`_
-- `flashvsr <https://github.com/NVIDIA/flashdreams/tree/main/integrations/flashvsr>`_
+- `flashvsr <https://github.com/NVIDIA/flashdreams/tree/main/integrations_v2/flashvsr>`_
 - `cosmos_predict2 <https://github.com/NVIDIA/flashdreams/tree/main/integrations/cosmos_predict2>`_
 
 NVIDIA OmniDreams

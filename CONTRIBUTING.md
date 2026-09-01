@@ -344,7 +344,7 @@ Available integration packages:
 | `integrations/causal_forcing` | `flashdreams-causal-forcing` |
 | `integrations/cosmos_predict2` | `flashdreams-cosmos-predict2` |
 | `integrations/fastvideo_causal_wan22` | `flashdreams-fastvideo-causal-wan22` |
-| `integrations/flashvsr` | `flashdreams-flashvsr` |
+| `integrations_v2/flashvsr` | `flashdreams-flashvsr` |
 | `integrations/hy_worldplay` | `flashdreams-hy-worldplay` |
 | `integrations/lingbot` | `flashdreams-lingbot` |
 | `integrations_v2/omnidreams` | `flashdreams-omnidreams` |
