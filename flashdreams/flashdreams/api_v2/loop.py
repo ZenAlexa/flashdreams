@@ -212,6 +212,11 @@ class IModelLoop(ILoop[StateT], ABC):
     bare :class:`StepResult` or ``None`` raises :class:`TypeError`.
     """
 
+    @abstractmethod
+    def step(self, step_index: int, events: UserInputEvents) -> list[StepResult]:
+        """We expect IModelLoop's to return a list of StepResults, one result per channel."""
+        ...
+
     @final
     def _run_model_loop(
         self,
